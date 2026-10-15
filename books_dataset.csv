@@ -1,0 +1,241 @@
+book_title,subject,original_price,age_years,condition,demand_level,latest_edition,resale_price
+Demo Book 001,Analog Electronics,1800,1,Poor,Medium,Yes,461.56
+Demo Book 002,Artificial Intelligence,750,6,Fair,High,No,216.03
+Demo Book 003,Cloud Computing,1250,1,Like New,Medium,Yes,1041.35
+Demo Book 004,Computer Networks,450,7,Like New,Low,No,199.74
+Demo Book 005,Computer Organization,300,5,Good,High,No,163.89
+Demo Book 006,Control Systems,650,1,Fair,Low,Yes,202.11
+Demo Book 007,Cyber Security,300,4,Fair,Medium,No,110.7
+Demo Book 008,DBMS,250,9,Fair,Low,Yes,106.93
+Demo Book 009,Data Science,500,4,Good,Low,No,238.09
+Demo Book 010,Data Structures,350,2,Fair,Medium,No,80.33
+Demo Book 011,Digital Electronics,900,4,Fair,High,Yes,373.5
+Demo Book 012,Electrical Machines,500,4,Fair,Low,Yes,128.02
+Demo Book 013,Engineering Chemistry,650,2,Good,Medium,Yes,403.85
+Demo Book 014,Engineering Mathematics,900,1,Good,High,No,597.34
+Demo Book 015,Engineering Mechanics,250,3,Fair,Medium,No,105.47
+Demo Book 016,Engineering Physics,750,0,Good,High,No,422.99
+Demo Book 017,Environmental Engineering,1500,0,Poor,High,No,377.72
+Demo Book 018,Fluid Mechanics,750,7,Fair,Low,Yes,178.09
+Demo Book 019,Machine Learning,650,9,Fair,Low,Yes,105.23
+Demo Book 020,Manufacturing Processes,500,7,Fair,Medium,No,108.34
+Demo Book 021,Microprocessors,350,7,Good,High,No,93.56
+Demo Book 022,Natural Language Processing,1800,2,Poor,Low,No,261.33
+Demo Book 023,Operating Systems,250,2,Like New,Low,Yes,143.66
+Demo Book 024,Power Systems,1100,0,Poor,Medium,Yes,314.82
+Demo Book 025,Python,2200,4,Good,Medium,Yes,1187.16
+Demo Book 026,Signals and Systems,900,3,Like New,Low,Yes,533.59
+Demo Book 027,Software Engineering,450,7,Good,Medium,Yes,236.53
+Demo Book 028,Statistics,1100,7,Like New,High,Yes,720.38
+Demo Book 029,Strength of Materials,1250,8,Fair,Low,No,248.25
+Demo Book 030,Structural Engineering,1100,1,Like New,Medium,Yes,857.57
+Demo Book 031,Surveying,900,8,Fair,Medium,No,209.13
+Demo Book 032,Thermodynamics,500,6,Fair,Medium,No,133.82
+Demo Book 033,Web Technology,750,2,Fair,Low,Yes,215.25
+Demo Book 034,Analog Electronics,300,4,Poor,High,No,35.81
+Demo Book 035,Artificial Intelligence,2200,8,Good,Medium,No,853.62
+Demo Book 036,Cloud Computing,500,0,Poor,Medium,No,138.15
+Demo Book 037,Computer Networks,450,4,Fair,Medium,Yes,184.04
+Demo Book 038,Computer Organization,2200,5,Good,Medium,No,1004.25
+Demo Book 039,Control Systems,650,6,Good,High,No,261.66
+Demo Book 040,Cyber Security,1500,6,Good,Medium,No,602.74
+Demo Book 041,DBMS,300,1,Poor,Medium,Yes,34.08
+Demo Book 042,Data Science,2200,0,Poor,Medium,Yes,473.13
+Demo Book 043,Data Structures,1250,2,Poor,High,Yes,363.7
+Demo Book 044,Digital Electronics,500,2,Poor,High,No,102.09
+Demo Book 045,Electrical Machines,450,7,Fair,Medium,Yes,135.76
+Demo Book 046,Engineering Chemistry,350,8,Good,Low,Yes,84.25
+Demo Book 047,Engineering Mathematics,750,7,Fair,Medium,Yes,258.38
+Demo Book 048,Engineering Mechanics,250,5,Poor,Medium,Yes,81.9
+Demo Book 049,Engineering Physics,500,2,Poor,Medium,Yes,138.09
+Demo Book 050,Environmental Engineering,900,0,Like New,Medium,Yes,807.0
+Demo Book 051,Fluid Mechanics,450,1,Fair,High,No,211.93
+Demo Book 052,Machine Learning,450,1,Good,Low,No,242.56
+Demo Book 053,Manufacturing Processes,1250,2,Like New,Medium,Yes,1019.07
+Demo Book 054,Microprocessors,1250,2,Good,Medium,Yes,702.73
+Demo Book 055,Natural Language Processing,2200,5,Poor,Medium,No,352.23
+Demo Book 056,Operating Systems,900,0,Fair,Medium,No,315.65
+Demo Book 057,Power Systems,1800,2,Like New,Medium,No,1179.17
+Demo Book 058,Python,1500,0,Poor,High,No,341.94
+Demo Book 059,Signals and Systems,1100,7,Good,Low,Yes,455.16
+Demo Book 060,Software Engineering,350,2,Like New,Low,Yes,213.69
+Demo Book 061,Statistics,450,2,Good,Medium,No,226.78
+Demo Book 062,Strength of Materials,250,3,Fair,Medium,No,109.05
+Demo Book 063,Structural Engineering,1500,1,Poor,Medium,No,290.29
+Demo Book 064,Surveying,750,9,Good,High,Yes,390.67
+Demo Book 065,Thermodynamics,750,5,Poor,High,Yes,166.83
+Demo Book 066,Web Technology,900,6,Poor,Low,Yes,121.92
+Demo Book 067,Analog Electronics,900,5,Good,Medium,No,366.0
+Demo Book 068,Artificial Intelligence,500,7,Good,High,Yes,277.86
+Demo Book 069,Cloud Computing,900,7,Poor,High,No,111.08
+Demo Book 070,Computer Networks,2200,5,Poor,Medium,Yes,488.05
+Demo Book 071,Computer Organization,500,0,Like New,Low,Yes,315.42
+Demo Book 072,Control Systems,450,0,Poor,Low,Yes,107.55
+Demo Book 073,Cyber Security,350,6,Like New,High,Yes,283.73
+Demo Book 074,DBMS,500,4,Like New,Medium,No,326.37
+Demo Book 075,Data Science,1800,5,Poor,Medium,Yes,365.44
+Demo Book 076,Data Structures,1500,8,Poor,High,No,230.08
+Demo Book 077,Digital Electronics,1800,8,Poor,Medium,Yes,337.1
+Demo Book 078,Electrical Machines,250,5,Like New,High,No,190.66
+Demo Book 079,Engineering Chemistry,900,5,Poor,Low,No,60.94
+Demo Book 080,Engineering Mathematics,300,9,Fair,Medium,No,46.23
+Demo Book 081,Engineering Mechanics,650,1,Good,High,Yes,441.17
+Demo Book 082,Engineering Physics,1800,8,Good,Low,No,563.16
+Demo Book 083,Environmental Engineering,1250,7,Fair,Medium,Yes,378.75
+Demo Book 084,Fluid Mechanics,500,2,Fair,Low,No,175.11
+Demo Book 085,Machine Learning,250,1,Fair,Low,Yes,34.74
+Demo Book 086,Manufacturing Processes,750,9,Good,Medium,Yes,327.84
+Demo Book 087,Microprocessors,1250,5,Fair,Low,Yes,336.95
+Demo Book 088,Natural Language Processing,500,5,Fair,High,Yes,207.01
+Demo Book 089,Operating Systems,500,1,Like New,High,No,388.77
+Demo Book 090,Power Systems,750,6,Like New,Low,Yes,433.63
+Demo Book 091,Python,1500,5,Good,Low,Yes,696.84
+Demo Book 092,Signals and Systems,300,7,Like New,Low,Yes,220.87
+Demo Book 093,Software Engineering,1100,5,Poor,High,Yes,204.5
+Demo Book 094,Statistics,500,1,Like New,Medium,No,306.2
+Demo Book 095,Strength of Materials,1500,8,Fair,Medium,No,337.53
+Demo Book 096,Structural Engineering,1100,8,Fair,High,No,282.25
+Demo Book 097,Surveying,1500,9,Like New,High,Yes,950.43
+Demo Book 098,Thermodynamics,1800,8,Poor,Low,No,180.11
+Demo Book 099,Web Technology,1500,5,Like New,Medium,No,850.62
+Demo Book 100,Analog Electronics,350,6,Like New,High,Yes,221.74
+Demo Book 101,Artificial Intelligence,300,0,Good,Medium,Yes,167.86
+Demo Book 102,Cloud Computing,250,6,Fair,Medium,Yes,67.16
+Demo Book 103,Computer Networks,500,5,Good,Medium,Yes,246.92
+Demo Book 104,Computer Organization,350,8,Like New,Medium,No,172.15
+Demo Book 105,Control Systems,900,8,Fair,Low,Yes,274.18
+Demo Book 106,Cyber Security,2200,8,Fair,Low,Yes,584.21
+Demo Book 107,DBMS,650,4,Fair,High,No,222.49
+Demo Book 108,Data Science,300,2,Fair,High,Yes,107.92
+Demo Book 109,Data Structures,350,0,Poor,Medium,No,48.26
+Demo Book 110,Digital Electronics,750,1,Fair,Medium,Yes,247.13
+Demo Book 111,Electrical Machines,450,9,Good,Medium,No,155.93
+Demo Book 112,Engineering Chemistry,350,0,Fair,Low,No,102.53
+Demo Book 113,Engineering Mathematics,250,6,Fair,High,Yes,121.97
+Demo Book 114,Engineering Mechanics,450,5,Good,High,No,138.2
+Demo Book 115,Engineering Physics,1100,2,Good,Medium,No,513.05
+Demo Book 116,Environmental Engineering,250,3,Good,Low,Yes,140.57
+Demo Book 117,Fluid Mechanics,1100,0,Fair,High,No,472.51
+Demo Book 118,Machine Learning,350,1,Like New,Medium,No,227.13
+Demo Book 119,Manufacturing Processes,500,0,Like New,High,No,339.56
+Demo Book 120,Microprocessors,900,3,Good,Medium,Yes,526.87
+Demo Book 121,Natural Language Processing,1500,6,Fair,High,No,512.99
+Demo Book 122,Operating Systems,450,5,Fair,High,Yes,151.82
+Demo Book 123,Power Systems,350,8,Good,Medium,No,177.29
+Demo Book 124,Python,250,0,Like New,Medium,Yes,201.08
+Demo Book 125,Signals and Systems,1800,7,Poor,Low,No,255.01
+Demo Book 126,Software Engineering,650,4,Good,Medium,Yes,384.49
+Demo Book 127,Statistics,300,4,Like New,Low,No,157.27
+Demo Book 128,Strength of Materials,350,7,Poor,High,No,162.35
+Demo Book 129,Structural Engineering,500,9,Fair,Low,No,112.87
+Demo Book 130,Surveying,350,3,Fair,Medium,Yes,133.08
+Demo Book 131,Thermodynamics,2200,7,Good,Low,No,803.99
+Demo Book 132,Web Technology,300,4,Good,High,No,143.74
+Demo Book 133,Analog Electronics,650,2,Like New,Low,Yes,398.9
+Demo Book 134,Artificial Intelligence,650,6,Poor,Low,Yes,97.39
+Demo Book 135,Cloud Computing,650,6,Like New,Low,No,349.19
+Demo Book 136,Computer Networks,1800,7,Like New,Low,No,805.23
+Demo Book 137,Computer Organization,1800,2,Fair,High,Yes,783.44
+Demo Book 138,Control Systems,350,1,Poor,High,Yes,83.85
+Demo Book 139,Cyber Security,250,9,Like New,Low,Yes,74.43
+Demo Book 140,DBMS,750,0,Poor,Low,No,131.16
+Demo Book 141,Data Science,350,7,Like New,High,No,184.09
+Demo Book 142,Data Structures,1500,6,Good,Low,Yes,593.26
+Demo Book 143,Digital Electronics,500,1,Fair,High,No,195.81
+Demo Book 144,Electrical Machines,450,9,Fair,Low,Yes,120.86
+Demo Book 145,Engineering Chemistry,500,3,Poor,Low,No,36.46
+Demo Book 146,Engineering Mathematics,650,2,Fair,Low,Yes,165.57
+Demo Book 147,Engineering Mechanics,450,2,Good,Medium,No,186.22
+Demo Book 148,Engineering Physics,2200,3,Good,High,No,1202.7
+Demo Book 149,Environmental Engineering,650,7,Like New,High,No,346.25
+Demo Book 150,Fluid Mechanics,2200,2,Fair,High,No,827.99
+Demo Book 151,Machine Learning,650,9,Fair,Low,No,140.49
+Demo Book 152,Manufacturing Processes,2200,4,Like New,High,Yes,1803.81
+Demo Book 153,Microprocessors,300,7,Poor,Low,Yes,30.0
+Demo Book 154,Natural Language Processing,900,0,Good,Low,No,391.11
+Demo Book 155,Operating Systems,500,8,Poor,High,Yes,103.32
+Demo Book 156,Power Systems,300,1,Good,Low,Yes,106.82
+Demo Book 157,Python,2200,5,Fair,High,Yes,883.35
+Demo Book 158,Signals and Systems,1800,0,Fair,High,No,714.23
+Demo Book 159,Software Engineering,2200,8,Fair,Medium,Yes,650.84
+Demo Book 160,Statistics,350,4,Good,Low,No,117.86
+Demo Book 161,Strength of Materials,900,2,Fair,High,No,380.96
+Demo Book 162,Structural Engineering,650,0,Like New,High,No,540.54
+Demo Book 163,Surveying,450,9,Poor,High,Yes,80.24
+Demo Book 164,Thermodynamics,2200,5,Good,Medium,Yes,1085.18
+Demo Book 165,Web Technology,450,5,Good,Low,No,142.07
+Demo Book 166,Analog Electronics,350,2,Good,Medium,Yes,206.19
+Demo Book 167,Artificial Intelligence,350,4,Poor,Medium,No,149.59
+Demo Book 168,Cloud Computing,300,2,Fair,Medium,Yes,101.34
+Demo Book 169,Computer Networks,1800,5,Fair,High,Yes,692.47
+Demo Book 170,Computer Organization,350,8,Poor,Low,No,46.62
+Demo Book 171,Control Systems,450,9,Fair,Low,No,88.19
+Demo Book 172,Cyber Security,750,5,Good,High,Yes,462.32
+Demo Book 173,DBMS,350,5,Fair,High,Yes,105.51
+Demo Book 174,Data Science,450,2,Good,Low,No,114.33
+Demo Book 175,Data Structures,900,8,Fair,High,No,287.22
+Demo Book 176,Digital Electronics,1800,1,Fair,High,No,652.89
+Demo Book 177,Electrical Machines,1250,0,Poor,High,No,305.7
+Demo Book 178,Engineering Chemistry,1500,3,Fair,Medium,No,507.84
+Demo Book 179,Engineering Mathematics,350,2,Good,High,Yes,170.45
+Demo Book 180,Engineering Mechanics,2200,6,Fair,Low,No,504.87
+Demo Book 181,Engineering Physics,300,6,Poor,High,Yes,30.0
+Demo Book 182,Environmental Engineering,1800,0,Good,Medium,Yes,1209.73
+Demo Book 183,Fluid Mechanics,250,8,Good,Medium,Yes,135.74
+Demo Book 184,Machine Learning,350,5,Poor,Low,No,73.46
+Demo Book 185,Manufacturing Processes,1250,3,Like New,High,Yes,1007.04
+Demo Book 186,Microprocessors,300,4,Like New,Medium,No,160.59
+Demo Book 187,Natural Language Processing,750,9,Poor,Low,No,73.42
+Demo Book 188,Operating Systems,1800,0,Like New,Low,No,1086.43
+Demo Book 189,Power Systems,650,6,Good,Medium,Yes,347.69
+Demo Book 190,Python,450,8,Poor,Medium,Yes,83.95
+Demo Book 191,Signals and Systems,900,9,Fair,Low,No,139.8
+Demo Book 192,Software Engineering,2200,4,Like New,Low,No,1134.28
+Demo Book 193,Statistics,450,0,Fair,Medium,No,140.56
+Demo Book 194,Strength of Materials,500,9,Poor,Medium,Yes,30.0
+Demo Book 195,Structural Engineering,1250,7,Good,Medium,No,471.8
+Demo Book 196,Surveying,900,4,Like New,Low,Yes,506.09
+Demo Book 197,Thermodynamics,650,9,Poor,Low,Yes,100.22
+Demo Book 198,Web Technology,900,6,Fair,Low,No,174.76
+Demo Book 199,Analog Electronics,350,7,Good,Medium,No,167.03
+Demo Book 200,Artificial Intelligence,1250,2,Fair,High,Yes,580.13
+Demo Book 201,Cloud Computing,1500,4,Good,Low,Yes,676.5
+Demo Book 202,Computer Networks,450,7,Good,High,No,197.56
+Demo Book 203,Computer Organization,1100,0,Like New,High,Yes,1051.29
+Demo Book 204,Control Systems,250,4,Poor,Low,No,31.34
+Demo Book 205,Cyber Security,250,6,Like New,High,Yes,252.87
+Demo Book 206,DBMS,300,5,Good,Low,No,31.1
+Demo Book 207,Data Science,350,7,Like New,High,Yes,282.76
+Demo Book 208,Data Structures,2200,0,Good,Low,No,973.53
+Demo Book 209,Digital Electronics,250,6,Fair,Medium,No,52.36
+Demo Book 210,Electrical Machines,250,6,Fair,Low,Yes,52.89
+Demo Book 211,Engineering Chemistry,650,9,Good,Low,Yes,314.71
+Demo Book 212,Engineering Mathematics,1500,2,Good,Low,Yes,782.82
+Demo Book 213,Engineering Mechanics,1100,5,Poor,High,No,208.1
+Demo Book 214,Engineering Physics,300,4,Like New,High,No,219.25
+Demo Book 215,Environmental Engineering,1250,8,Like New,Low,No,512.99
+Demo Book 216,Fluid Mechanics,250,7,Like New,Medium,No,134.92
+Demo Book 217,Machine Learning,500,7,Poor,High,Yes,75.68
+Demo Book 218,Manufacturing Processes,2200,6,Good,Medium,No,896.01
+Demo Book 219,Microprocessors,250,2,Fair,High,No,128.29
+Demo Book 220,Natural Language Processing,250,1,Like New,Low,No,107.57
+Demo Book 221,Operating Systems,900,4,Poor,Low,Yes,56.2
+Demo Book 222,Power Systems,900,9,Good,Medium,No,388.6
+Demo Book 223,Python,900,6,Like New,High,Yes,685.02
+Demo Book 224,Signals and Systems,1800,8,Fair,Medium,No,405.85
+Demo Book 225,Software Engineering,1800,9,Poor,Low,Yes,230.35
+Demo Book 226,Statistics,750,6,Fair,Medium,Yes,207.4
+Demo Book 227,Strength of Materials,1250,9,Fair,High,Yes,361.3
+Demo Book 228,Structural Engineering,650,3,Poor,High,Yes,145.0
+Demo Book 229,Surveying,300,6,Fair,High,No,144.77
+Demo Book 230,Thermodynamics,650,7,Fair,High,No,237.34
+Demo Book 231,Web Technology,1800,9,Like New,High,Yes,1115.79
+Demo Book 232,Analog Electronics,500,1,Like New,Low,Yes,347.22
+Demo Book 233,Artificial Intelligence,650,1,Like New,High,No,490.2
+Demo Book 234,Cloud Computing,1500,8,Like New,Low,Yes,745.67
+Demo Book 235,Computer Networks,1100,1,Good,High,Yes,777.54
+Demo Book 236,Computer Organization,250,5,Fair,Medium,No,66.68
+Demo Book 237,Control Systems,1100,3,Fair,High,Yes,446.57
+Demo Book 238,Cyber Security,650,7,Poor,Medium,Yes,105.3
+Demo Book 239,DBMS,1500,8,Poor,Low,No,202.88
+Demo Book 240,Data Science,1100,7,Good,High,Yes,559.98
